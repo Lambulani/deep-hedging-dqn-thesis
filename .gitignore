@@ -1,0 +1,7 @@
+models/
+results/
+*.pth
+*.pt
+*.zip
+*.csv
+
